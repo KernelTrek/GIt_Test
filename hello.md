@@ -34,3 +34,4 @@
 - 둘다 영향만 없으면 됨 
 
 ## PULL tEST ( GIT HUB 가 로컬보다 빠르게 )
+- PULL: GIT HUB 에서 데이터를 받아오자 ~~
