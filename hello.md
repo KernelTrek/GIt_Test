@@ -35,3 +35,7 @@
 
 ## PULL tEST ( GIT HUB 가 로컬보다 빠르게 )
 - PULL: GIT HUB 에서 데이터를 받아오자 ~~
+
+
+## Conflict 내용 추가
+- 충돌을 해결해 봅시다. 
