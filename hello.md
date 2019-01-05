@@ -1,4 +1,4 @@
-# hello git
+# hello git (Infrean Git 허브 활용 편 )
 
 ## git 명령어 요약
 
@@ -9,3 +9,6 @@
 
 ## 수정 전 상태로 돌아갈때 사용 
 - Checkout : 마지막 커밋으로 되돌아 갈수 있음 (SourceTree 에서는 코드 뭉치 버리기 사용하면됨.)
+
+## 강의 요약 
+- 
